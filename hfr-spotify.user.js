@@ -1,8 +1,16 @@
 ﻿// ==UserScript==
 // @name [HFR] Spotify
-// @version 0.0.2
+// @version 0.0.3
+// @namespace xat.azora.fr
 // @description Remplacer un lien/URI Spotify par le lecteur spotify
-// @include http://forum.hardware.fr/*
+// @downloadURL   https://raw.githubusercontent.com/XaaT/hfr-gm-spotify/master/hfr-spotify.user.js
+// @updateURL     https://raw.githubusercontent.com/XaaT/hfr-gm-spotify/master/hfr-spotify.user.js
+// @include       https://forum.hardware.fr/forum2.php*
+// @include       https://forum.hardware.fr/forum1f.php*
+// @include       https://forum.hardware.fr/forum1.php*
+// @include       https://forum.hardware.fr/hfr/*
+// @include       https://forum.hardware.fr
+// @include       https://forum.hardware.fr/
 // @grant GM_info
 // @grant GM_deleteValue
 // @grant GM_getValue
